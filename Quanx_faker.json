@@ -6,6 +6,7 @@
     "6 0 * * * nzw9314/Task/xmly_wc.js, tag=微信喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/ximalaya.png, enabled=true",
     "8 0 * * * nzw9314/chavyleung/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10010.png, enabled=true",
     "9 0 * * * nzw9314/chavyleung/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/10086.png, enabled=true",
+    "0 9 * * * nzw9314/Sunert/Task/mydigit.js,tag=数码之家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/mydigit.png, enabled=true",
     "2 0 * * * nzw9314/chavyleung/bilibili/bilibili.js, tag=bilibili, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/bilibili.png, enabled=true",
     "2 0 * * * nzw9314/chavyleung/bilibili/bilibili.silver2coin.js, tag=银瓜子转硬币, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/bilibili.png, enabled=true",
     "0 0 10,21 * * * nzw9314/zZPiglet/Oclean/Oclean_mini.js, tag=欧可林商城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Oclean.png, enabled=true",
